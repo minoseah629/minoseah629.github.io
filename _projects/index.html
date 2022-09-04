@@ -1,0 +1,14 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/overriding-theme-defaults
+
+layout: page
+title: "Projects"
+date: 2022-08-29
+permalink: /projects/
+---
+{% for project in site.projects reversed %}
+    {%if project.title != "Projects" %}
+        <li><a href="{{ project.url }}" title="{{ project.title }}">{{ project.title }}</a></li>
+    {% endif %}
+{% endfor %}
