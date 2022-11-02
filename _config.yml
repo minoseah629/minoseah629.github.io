@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -37,20 +37,21 @@ collections:
   projects:
     title: Projects
     output: true
-#   ait602:
-#     title: "AIT 602"
-#     sequence: 3
-#     date: 2021-05-07
-#   ait724:
-#     title: "AIT 724"
-#     sequence: 2
-#     date: 2021-12-01
-#   ait614:
-#     title: "AIT 614"
-#     sequence: 1
-#     date: 2022-05-02
+  # ait602:
+  #   title: "AIT 602"
+  #   sequence: 3
+  #   date: 2021-05-07
+  # ait724:
+  #   title: "AIT 724"
+  #   sequence: 2
+  #   date: 2021-12-01
+  # ait614:
+  #   title: "AIT 614"
+  #   sequence: 1
+  #   date: 2022-05-02
 include:
   - _projects/index.html
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
