@@ -1,17 +1,23 @@
 ---
 layout: default
 ---
+{%- if page.title != "Analysis of Public Safety and Funding" -%}
+  <div class="home">
+{%- endif -%}
 
-<div class="home">
   {%- if page.title -%}
+  {%- if page.title != "Analysis of Public Safety and Funding" -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
+{%- endif -%}
 
   {{ content }}
 
-  {%- if site.posts.size > 0 -%}
+{%- if site.posts.size == 0 -%}
           
   {%- endif -%}
 
   {%- include news.html -%}
+{%- if page.title != "Analysis of Public Safety and Funding" -%}
 </div>
+{%- endif -%}

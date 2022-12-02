@@ -6,6 +6,8 @@ permalink: /projects/
 
 {% for project in site.projects reversed %}
     {%if project.title != "Projects" %}
-        <li><a href="{{ project.url }}" title="{{ project.title }}">{{ project.title }}</a></li>
+        {%if project.title != "Analysis of Public Safety and Funding" %}
+            <li><a href="{{ project.url }}" title="{{ project.title }}">{{ project.title }}</a></li>
+        {% endif %}
     {% endif %}
-{% endfor %}
+{% endfor %}    
