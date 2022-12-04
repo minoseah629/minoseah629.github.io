@@ -11,9 +11,11 @@
     <main class="page-content" aria-label="Content">
       <div class="container">
         <div class="row">
-          <div class="col-md-3">            
+          <div class="col-md-2">
+            <hr>
+            <div></div>
           </div>
-          <div class="col-md-9">
+          <div class="col-md-10">
             <div class="wrapper">
               {{ content }} 
             </div>
@@ -28,7 +30,7 @@ $(document).ready(() => {
   var toc = $("#markdown-toc");
   if (toc != null)
   {
-    var nav = $("div.col-md-3");
+    var nav = $("div.col-md-2");
     toc.appendTo(nav);
   }
   return;
