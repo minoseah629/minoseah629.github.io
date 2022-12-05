@@ -12,24 +12,41 @@ As a public service, police are held up to a higher standard to operate in promo
 <br>
 However, there are various incidents in recent time where a member of the police either exercised poor judgment or act in self defense.  
 
-* George Floyd
-* Michael Brown
+* [George Floyd](https://en.wikipedia.org/wiki/George_Floyd)
+* [Michael Brown](https://en.wikipedia.org/wiki/Shooting_of_Michael_Brown)
 
 Any loss of life is unfortunate, but what measures/improvements to promote public safety.  
 
-* Improve police training 
-* Reduce police funding and ask an alternative community service to response. [Mental Health Crisis Response][def]
+* Improve police training [Police Training](https://www.youtube.com/playlist?list=PLFE3YAP2b_fTnKoxCirhzjGiYOXOpw_7r)
+* Reduce police funding and ask an alternative community service to response. [Mental Health Crisis Response][Mental Health Crisis Response]
 
-<div id="navigationSide">    
+[Mental Health Crisis Response]: https://www.thecity.nyc/2022/7/18/23267193/mental-health-911-b-heard-teams
+
+<div id="navigationSide">
     <a href="/">Introduction</a>
     <br>
     <a disabled> -> Current Events</a>
     <br>
-    <a href=""></a>
+    <a href="/projects/ait722/application/">NYC Community Application</a>
+    <br>
+    <a href="/projects/ait722/application/analysis">Data Analysis</a>
 </div>
 <div id="referenceLinks">
-    <h2>Reference Links</h2>    
-    <a href="https://www.thecity.nyc/2022/7/18/23267193/mental-health-911-b-heard-teams">Mental Health Response Team</a>
+    <h2>Reference Links</h2>
+    <ol>
+        <li>
+            <a href="https://en.wikipedia.org/wiki/George_Floyd" title="George Floyd Wiki">George Floyd</a>
+        </li>
+        <li>
+            <a href="https://en.wikipedia.org/wiki/Shooting_of_Michael_Brown" title="Michael Brown Wiki">Michael Brown</a>
+        </li>
+        <li>
+            <a href="https://www.youtube.com/playlist?list=PLFE3YAP2b_fTnKoxCirhzjGiYOXOpw_7r" title="Youtube Playlist for Police Training Videos">Youtube playlist for Police Training</a>
+        </li>
+        <li>
+            <a href="https://www.thecity.nyc/2022/7/18/23267193/mental-health-911-b-heard-teams" title="The City-News Article: Non-Cop Response Teams Handled Just 16% of 911 Mental Health Crisis Calls">Mental Health Response</a>
+        </li>
+    </ol>
 </div>
 
 <script>
@@ -51,6 +68,3 @@ Any loss of life is unfortunate, but what measures/improvements to promote publi
     });
 
 </script>
-
-
-[def]: https://www.thecity.nyc/2022/7/18/23267193/mental-health-911-b-heard-teams

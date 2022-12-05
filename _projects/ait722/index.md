@@ -15,8 +15,6 @@ To explore this topic, I picked the New York City Police Department (NYPD)  and 
 
 [NYPD CompStat2.0][NYPD CompStat2.0] and [NYC Crime Map][NYC Crime Map]  
 
-<!-- ![NYPD CompStat2.0 Mobile](projects/AIT722/img_0374.png) -->
-
 <div class="row">
     <div class="col-md-6">
         <img src="/projects/AIT722/img_0374.png" title="NYPD CompStat2.0 mobile view" width=300 height=200>
@@ -44,16 +42,27 @@ The application provides the user to explore the data from both zip code and pre
     <a disabled > -> Introduction</a>
     <br>
     <a href="/projects/ait722/Current_Events">Current Events</a>
+    <br>  
+    <a href="/projects/ait722/application/">NYC Community Application</a>
+    <br>
+    <a href="/projects/ait722/application/analysis">Data Analysis</a>
 </div>
 <div id="referenceLinks">
     <h2>Reference Links</h2>
-    <a href="https://maps.nyc.gov/crime/">NYC Crime Map</a>
-    <br>
-    <a href="https://opendata.cityofnewyork.us">NYC Open Data</a>
-    <br>
-    <a href="https://compstat.nypdonline.org/">NYPD CompStat 2.0</a>
-    <br>
-    <a href="https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i">NYPD Complaint Data Historic</a>
+    <ol>
+        <li>
+            <a href="https://maps.nyc.gov/crime/">NYC Crime Map</a>
+        </li>
+        <li>
+            <a href="https://opendata.cityofnewyork.us">NYC Open Data</a>
+        </li>
+        <li>
+            <a href="https://compstat.nypdonline.org/">NYPD CompStat 2.0</a>
+        </li>
+        <li>
+            <a href="https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i">NYPD Complaint Data Historic</a>
+        </li>
+    </ol>
 </div>
 
 <script>
