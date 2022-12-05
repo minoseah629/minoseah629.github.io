@@ -17,7 +17,7 @@ To explore this topic, I picked the New York City Police Department (NYPD)  and 
 
 <div class="row">
     <div class="col-md-6">
-        <img src="/projects/AIT722/img_0374.png" title="NYPD CompStat2.0 mobile view" width=300 height=200>
+        <img src="projects/ait722/IMG_0374.PNG" title="NYPD CompStat2.0 mobile view" width=300 height=200/>
     </div>
     <div class="col-md-6">
         <iframe id="NYC-Crime-Map-iframe"

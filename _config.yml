@@ -49,6 +49,7 @@ collections:
   #   date: 2022-05-02
 include:
   - _projects/index.html
+  - _projects/AIT722/IMG_0374.png
 
 sass:
   load_paths:
