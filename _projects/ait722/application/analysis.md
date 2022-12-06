@@ -27,7 +27,6 @@ Tools used:
 * QGIS (geospatial analysis)
 * Tableau (visualization)
 
-
 <div id="navigationSide">
     <a href="/">Introduction</a>
     <br>
@@ -36,6 +35,10 @@ Tools used:
     <a href="/projects/ait722/application/">NYC Community Application</a>
     <br>
     <a disabled> -> Data Analysis</a>
+    <br>
+    <a href="/projects/ait722/application/results">Results</a>
+    <br>
+    <a href="/projects/ait722/application/discussion">Discussion</a>
 </div>
 <div id="referenceLinks">
     <h2>Reference Links</h2>

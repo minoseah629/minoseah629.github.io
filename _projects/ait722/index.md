@@ -46,6 +46,10 @@ The application provides the user to explore the data from both zip code and pre
     <a href="/projects/ait722/application/">NYC Community Application</a>
     <br>
     <a href="/projects/ait722/application/analysis">Data Analysis</a>
+    <br>
+    <a href="/projects/ait722/application/results">Results</a>
+    <br>
+    <a href="/projects/ait722/application/discussion">Discussion</a>
 </div>
 <div id="referenceLinks">
     <h2>Reference Links</h2>

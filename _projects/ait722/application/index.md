@@ -34,7 +34,18 @@ title: "Analysis of Public Safety and Funding"
 <script type='text/javascript'>
     var divElement = document.getElementById('viz1670220973071');
     var vizElement = divElement.getElementsByTagName('object')[0];
-    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='800px';vizElement.style.height='850px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='800px';vizElement.style.height='850px';} else { vizElement.style.width='100%';vizElement.style.height='900px';}
+    if (divElement.offsetWidth > 800) {
+        vizElement.style.width = '800px'; 
+        vizElement.style.height = '850px';
+    }
+    else if (divElement.offsetWidth > 500) {
+        vizElement.style.width = '800px';
+        vizElement.style.height = '850px';
+    }
+    else {
+        vizElement.style.width = '100%';
+        vizElement.style.height = '900px';
+    }
     var scriptElement = document.createElement('script');
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
@@ -47,6 +58,10 @@ title: "Analysis of Public Safety and Funding"
     <a disabled> -> NYC Community Application</a>
     <br>
     <a href="/projects/ait722/application/analysis"> Data Analysis</a>
+    <br>
+    <a href="/projects/ait722/application/results">Results</a>
+    <br>
+    <a href="/projects/ait722/application/discussion">Discussion</a>
 </div>
 <div id="referenceLinks">
     <h2>Reference Links</h2>
