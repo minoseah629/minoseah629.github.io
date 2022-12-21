@@ -4,8 +4,7 @@ title : AIT614
 sequence: 1
 date: 2022-05-02
 ---
-* auto-gen TOC:
-{:toc}
+
 ## Authors:
 Neethu Battula,
 Sagar Goswami,
